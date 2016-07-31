@@ -1,0 +1,19 @@
+{
+  "name": "either-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Either.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/grillorafael/either-js.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
